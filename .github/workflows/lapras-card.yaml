@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHARE_ID: "moz-sec"
           ICON_FIRST: "#03102f"
           ICON_SECOND: "#1688bf"
