@@ -38,8 +38,6 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652c9c4ff43a58c923d43405?variant=dark)](https://roadmap.sh)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/moz-sec" target="_blank" rel="noopener noreferrer"><img alt="moz-sec's scores on LAPRAS are as follows: Engineering: 3.28 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.31 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.28&b=2.85&i=3.31&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 6/7/2025, 3:21:14 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 🛠️ **Tech Stack**
@@ -87,3 +85,17 @@ Last Updated on 6/7/2025, 3:21:14 PM</p>
 ## 🏆 **GitHub Trophies**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=moz-sec&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Issues,Experience)
+
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
