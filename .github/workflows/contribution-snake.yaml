@@ -38,4 +38,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_PROFILE_GENERATE_SNAKE_TOKEN_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.DEPROY_FG_PAT }}
