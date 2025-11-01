@@ -39,7 +39,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/moz-sec" target="_blank" rel="noopener noreferrer"><img alt="moz-sec's scores on LAPRAS are as follows: Engineering: 3.29 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.31 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.29&b=2.85&i=3.31&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 10/25/2025, 3:19:19 PM</p>
+Last Updated on 11/1/2025, 3:18:37 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 🛠️ **Tech Stack**
