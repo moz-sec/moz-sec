@@ -38,8 +38,8 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652c9c4ff43a58c923d43405?variant=dark)](https://roadmap.sh)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/moz-sec" target="_blank" rel="noopener noreferrer"><img alt="moz-sec's scores on LAPRAS are as follows: Engineering: 3.33 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.41 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.33&b=2.85&i=3.41&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 8/15/2026, 3:23:43 PM</p>
+<p ><a href="https://lapras.com/public/moz-sec" target="_blank" rel="noopener noreferrer"><img alt="moz-sec's scores on LAPRAS are as follows: Engineering: 3.34 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.41 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.34&b=2.85&i=3.41&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
+Last Updated on 8/22/2026, 3:24:10 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 🛠️ **Tech Stack**
