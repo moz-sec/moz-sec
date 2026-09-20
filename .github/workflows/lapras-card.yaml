@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: kawamataryo/lapras-card-readme@main
+        continue-on-error: true
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHARE_ID: "moz-sec"
